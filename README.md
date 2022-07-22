@@ -1,16 +1,7 @@
-# todoey
+# Todoey app
 
-A new Flutter project.
+Here's a todo list manager app to keep track of all your tasks.
 
-## Getting Started
+![Screenshot (1213)](https://user-images.githubusercontent.com/87477923/180460411-99ff235a-5225-4642-9630-a353f0d0bfa3.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (1214)](https://user-images.githubusercontent.com/87477923/180460341-2a618a0c-666a-4dad-9d11-818a08cc1f65.png)
